@@ -1,8 +1,18 @@
-.container {
+nav {
+display: inline-block;
+text-align: right;
+float: right;
+}
+
+.search-box {
 
 }
 
-.container img {
+.search-box img {
 	display: block;
 	margin: auto;
+}
+
+.footer {
+	
 }
