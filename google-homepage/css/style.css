@@ -6,7 +6,10 @@ header {
 li {
 	list-style-type: none;
 	display: inline-block;
-	position: relative;
+}
+
+nav {
+	height: 16px;
 }
 
 nav a {
@@ -15,7 +18,8 @@ nav a {
 }
 
 nav ul {
-	text-align: right;
+	position: absolute;
+	right: 20px;
 }
 
 .button {
@@ -27,10 +31,11 @@ nav ul {
 }
 
 .menu {
-	position: absolute;
+	position: relative;
 	overflow: hidden;
 	height: 30px;
     width: 30px;
+    top: 10px;
 }
 
 .menu img {
