@@ -1,2 +1,2 @@
-# The-Odin-Project
-Projects for The Odin Project are here
+# google-homepage
+http://www.theodinproject.com/web-development-101/html-css
